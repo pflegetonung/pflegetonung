@@ -4,7 +4,7 @@ I'm an iOS/macOS developer exploring the world of mobile apps using **Swift** an
 
 ### 🛠️ Technologies
 - **Languages:** Swift
-- **Frameworks:** SwiftUI
+- **Frameworks:** SwiftUI, Combine
 - **Platforms:** macOS & iOS
 
 ### 💻 My Setup
