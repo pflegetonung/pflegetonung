@@ -8,5 +8,4 @@ I'm an iOS/macOS developer exploring the world of mobile apps using **Swift** an
 - **Platforms:** macOS & iOS
 
 ### 💻 My Setup
-- **Mac:** MacBook Air M1, 16GB RAM, macOS 15
-- **iPhone:** iPhone 12, iOS 18
+- **MacBook Air M1**, 16GB RAM, macOS 15
