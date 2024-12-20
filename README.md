@@ -6,7 +6,7 @@ I'm an iOS/macOS developer exploring the world of mobile apps using **Swift** an
 - **Languages:** Swift
 - **Frameworks:** SwiftUI, Combine, CoreData, CoreGraphics, MapKit & CoreLocation, AVFoundation
 - **Architecture:** MVVM + Coordinator
-- **Platforms:** iOS, iPadOS, macOS, watchOS, tvOS, visionOS
+- **Platforms:** iOS, macOS
 
 ### 💻 My Setup
 - **MacBook Air M1**, 16GB RAM, macOS 15
